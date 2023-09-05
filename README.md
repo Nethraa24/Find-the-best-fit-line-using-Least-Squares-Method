@@ -63,7 +63,7 @@ plt.show()
 ```
 
 ## Output:
-![263522033-f45a164d-9dc2-439c-984b-be1a40981ba8](https://github.com/Nethraa24/Find-the-best-fit-line-using-Least-Squares-Method/assets/121215786/f8ad2a4e-7eb1-419f-8310-e7db64884bc5)
+![image](https://github.com/Nethraa24/Find-the-best-fit-line-using-Least-Squares-Method/assets/121215786/3635db0c-30c7-448e-af85-18f959c07543)
 
 
 
